@@ -60,13 +60,12 @@
       "sonos-currenttrack": "sonos/sonos-currenttrack.js",
       "sonos-queue": "sonos/sonos-queue.js",
       "sonos-currentvol": "sonos/sonos-currentvol.js",
-      "sonos-group": "sonos/sonos-group.js",
-      "sonos-radio":"sonos/sonos-radio.js"
+      "sonos-group": "sonos/sonos-group.js"
     }
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shbert/node-red-contrib-sonos.git"
   },
-  "version": "0.0.10"
+  "version": "0.0.9"
 }
