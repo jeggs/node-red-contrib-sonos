@@ -61,7 +61,7 @@
       "sonos-queue": "sonos/sonos-queue.js",
       "sonos-currentvol": "sonos/sonos-currentvol.js",
       "sonos-group": "sonos/sonos-group.js",
-      "sonos-radio":"sonos/sonos-radio.js"
+      "sonos-radio": "sonos/sonos-radio.js"
     }
   },
   "repository": {
